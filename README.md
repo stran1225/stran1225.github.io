@@ -1,6 +1,6 @@
-theme:jekyll-theme-cayman
+theme: jekyll-theme-cayman
 title: Welcome to the Stran1225's homepage!
-description:Feel free to bookmark this to keep an eye on upcoming projects and/or project updates.
+description: Feel free to bookmark this to keep an eye on upcoming projects and/or project updates.
 
 ## Welcome to GitHub Pages
 
