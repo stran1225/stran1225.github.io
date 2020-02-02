@@ -6,8 +6,8 @@ Code done for my research may implemented into my GitHub at a later date. Additi
 routinely.
 
 ## Projects
-1. HelloWorld
-2. Match Function
+1. [HelloWorld](https://github.com/stran1225/hello-world)
+2. [Match Function](https://github.com/stran1225/Match-Program-CS253)
 3. B-Tree (will add to github in the future)
 4. Stepper Motor System Control for Plasma Carrying Device (will add to github in the future)
 5. App For Fun Project (will add to github in the future)
